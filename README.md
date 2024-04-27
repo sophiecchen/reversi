@@ -2,4 +2,4 @@
 
 By Sophie Chen
 
-A 2018 project of the Reversi game, run on Tkinter.
+This repository is the Reversi game made in 2018, run on Tkinter.
